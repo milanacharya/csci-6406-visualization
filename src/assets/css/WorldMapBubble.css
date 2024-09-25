@@ -1,0 +1,23 @@
+svg.map {
+    display: block;
+    width: 100%;
+    height: 400px;
+  }
+
+  .full-height {
+    height: 100%;
+  }
+
+  .inputcontainer {
+    display: flex;
+    gap: 2px;
+    width: 100%;
+  }
+
+  .slider {
+    width: 100%;
+  }
+
+  .circles {
+    stroke: #b8c4d4;
+  }

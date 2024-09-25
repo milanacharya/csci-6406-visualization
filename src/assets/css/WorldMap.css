@@ -1,0 +1,36 @@
+svg.map {
+  display: block;
+  width: 100%;
+  height: 400px;
+}
+
+svg .country:hover {
+  stroke: black;
+  stroke-width: 1px;
+  cursor: pointer;
+}
+
+.full-height {
+  height: 100%;
+}
+
+.tableDiv {
+  font-size: 11px;
+}
+
+.rightAlign {
+  text-align: right;
+}
+
+.red {
+  color: red;
+}
+
+.tooltip {
+  padding: 5px;
+  color: white;
+  background-color: #141313;
+  opacity: 0;
+  position: absolute;
+  border: 1px solid silver;
+}
